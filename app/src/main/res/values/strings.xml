@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JetWarmindo</string>
+    <string name="menu_1">Magelangan</string>
+    <string name="menu_2">Mie Dok Dok</string>
+    <string name="menu_3">Mie Nyemek</string>
+    <string name="menu_4">Nasi Ikan</string>
+    <string name="menu_5">Nasi Ayam</string>
+    <string name="menu_6">Nasi Jamur</string>
+    <string name="menu_7">Nasi Sarden</string>
+    <string name="menu_8">Nasi Telur Balado</string>
+    <string name="menu_9">Omelet</string>
+    <string name="menu_10">Telur Orak Arik</string>
+
+    <string name="price_rupiah">%d Rupiah</string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d Rupiah</string>
+    <string name="total_order">Total pesanan : %d Rupiah</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="section_foods">Menu Makanan</string>
+    <string name="section_drinks">Menu Minuman</string>
+    <string name="back">Kembali</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="share_message">Hey, aku barusan beli nih</string>
+    <string name="detail1">Magelangan merupakan nasi goreng yang dicampur dengan berbagai bahan dapur, seperti mie instan, bawang, kecap, telur, dan lainnya.</string>
+    <string name="detail_food">%s</string>
+    <string name="name">Muhammad Rijalul Awal</string>
+</resources>
